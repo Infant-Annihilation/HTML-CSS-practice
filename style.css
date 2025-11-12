@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(159, 48, 159);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+    margin: 20px;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(120, 30, 120);
+}
+
+p, ul, ol, table {
+    line-height: 1.5;
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto 1em auto;
+}
+
+ul, ol {
+    padding-left: 50px;
+}
+
+table {
+    background-color: white;
+    color: black;
+    margin: 0 auto 10px auto;
+    width: 60%;
+
+}
