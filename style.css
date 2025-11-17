@@ -4,6 +4,7 @@ body {
     color: #ffffff;
     margin: 20px;
     text-align: center;
+    background-image: url("topography.svg");
 }
 
 h1{
@@ -27,4 +28,16 @@ table {
     margin: 0 auto 10px auto;
     width: 60%;
 
+}
+
+th, td{
+    border: 2px dotted black;
+}
+
+a {
+    color: cyan;
+}
+
+a:hover {
+    color: lime;
 }
